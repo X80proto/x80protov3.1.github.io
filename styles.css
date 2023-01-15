@@ -11,11 +11,13 @@ body
 
      background-color:#181a1b; 
 
-     color:rgb(230, 230, 230);
+     color:rgb(212, 212, 212);
 
-     font-family: Arial, Helvetica, sans-serif; 
+     font-family: "Yu Gothic", sans-serif; 
 
      font-size: 18px; 
+
+     font-weight: normal;
 
      text-align: center; 
 
